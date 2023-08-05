@@ -1,0 +1,139 @@
+.body{
+    margin: 0px;
+    padding: 90px;
+    min-height: 750px;
+    align-items: center;
+    font-size: 135%;
+ }
+ 
+ .container{
+     margin: 0 auto; 
+     position: relative; 
+     width: auto; 
+     max-width: 1810px;
+     padding: 16px 35px 35px 35px;
+}
+ 
+.padd{
+    padding: 0.75rem;
+    text-align: center;
+    color: #0a2742;
+    margin-top: 270px;
+}
+
+#h1 {
+    font-size: 300%;
+}
+
+body{
+    margin: 0 auto;
+    font-family: "eurostile", sans-serif;
+    color: #141c3a;
+    font-size: 1.2em;
+    background: linear-gradient(to bottom,#7ea8cf,#104757);
+    background-attachment: fixed; 
+
+}
+
+*{
+    margin-top: 0;
+}
+
+.navbar{
+        padding: 2rem;
+       align-items: center;
+       position: relative;
+       background: linear-gradient(to bottom,#7ea8cf,#104757);
+       background-attachment: fixed; 
+        border-bottom: solid#0a2742;
+}
+.navbaritem{
+    font-size: 175%;
+    font-family: "eurostile",sans-serif ;
+    padding: .75rem;
+    box-sizing:content-box ;
+    width: 100px;
+    height: 40px;
+    background-color: #429df3;
+    border: none;
+    color: white;
+    border-radius: 10px 10px;
+}
+
+.navit{
+    margin: 0 auto; 
+    position: relative; 
+    width: auto; 
+    max-width: 1810px;
+
+}
+.content{
+    max-width: auto 0;
+    max-height: auto 0;
+    padding:  0.75rem;
+}
+#contact{
+    margin-left: 1473px;
+}
+table{
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+thead{
+    font-size: 145%;
+    text-align: center;
+}
+
+.expprof{
+    margin-top:30px ;
+}
+h2{
+    font-size: 200%;
+    text-align: center;
+}
+
+li{
+    margin: 2px;
+
+}
+.hab{
+    margin-top: 30px;
+}
+#expProf {
+        margin-right: 200px;
+        margin-top: 30px;
+        border: solid;
+        border-radius: 25px;
+      }
+      
+      #hab {
+        margin-top: 30px;
+        border: solid;
+        border-radius: 25px;
+        margin-left: 300px;
+}
+#flexContainer {
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 30px;}
+#contact{
+    
+}
+
+#margcont{
+    margin-top: 300px;
+    
+}
+form{
+    margin-left: 35%;
+}
